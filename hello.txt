@@ -1,4 +1,9 @@
 public class {
 public static void main(){
 system.out.print("hello world ");
-}}
+}
+publiv void string(){
+system.out.println(" add java code here");
+
+}
+}
